@@ -42,10 +42,10 @@
           "_name": "header2",
           "_anchor": "header2-8",
           "_params": {
-            "imageSize": "31",
+            "imageSize": "30",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-1-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -53,9 +53,9 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/1627kdaen1Q?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -67,7 +67,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2983-1-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-1400x2216.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -296,13 +296,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "title4": "Comic Book Artist",
