@@ -414,22 +414,6 @@ h6,
 #header1-h .mbr-section-title {
   color: #000000;
 }
-#features7-c .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-c .iconbox {
-  background-color: #000000;
-  border-color: #000000;
-}
-#features7-c H4 {
-  color: #000000;
-}
-#features7-c P {
-  color: #000000;
-}
-#header2-8 .mbr-section-text {
-  text-align: left;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -497,6 +481,11 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
+#content8-x .mbr-section-title,
+#content8-x p {
+  text-align: right;
+  color: #fff;
+}
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -562,5 +551,158 @@ h6,
 }
 #menu-d .close-icon::before,
 #menu-d .close-icon::after {
+  background-color: #000000;
+}
+#menu-n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-n .navbar-caption {
+  color: #ffffff;
+}
+#menu-n .navbar-toggler {
+  color: #000000;
+}
+#menu-n .link,
+#menu-n .dropdown-item {
+  color: #000000;
+}
+#menu-n .link {
+  font-size: 0.8rem;
+}
+#menu-n .dropdown-item,
+#menu-n .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-n .link:hover,
+#menu-n .dropdown-item:hover,
+#menu-n .link:focus,
+#menu-n .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-n .link[aria-expanded="true"],
+#menu-n .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-n .nav-dropdown-sm .link:focus,
+#menu-n .nav-dropdown-sm .link:hover,
+#menu-n .nav-dropdown-sm .dropdown-item:focus,
+#menu-n .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-n .navbar,
+#menu-n .nav-dropdown-sm,
+#menu-n .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-n .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-n .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-n .bg-color.transparent.opened .link:hover,
+#menu-n .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-n .link[aria-expanded="true"],
+#menu-n .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-n .close-icon::before,
+#menu-n .close-icon::after {
+  background-color: #000000;
+}
+#header1-q .mbr-section-title {
+  color: #000000;
+}
+#features7-r .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-r .iconbox {
+  background-color: #000000;
+  border-color: #000000;
+}
+#features7-r H4 {
+  color: #000000;
+}
+#features7-r P {
+  color: #000000;
+}
+#header2-s .mbr-section-text {
+  text-align: left;
+}
+#menu-t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-t .navbar-caption {
+  color: #ffffff;
+}
+#menu-t .navbar-toggler {
+  color: #000000;
+}
+#menu-t .link,
+#menu-t .dropdown-item {
+  color: #000000;
+}
+#menu-t .link {
+  font-size: 0.8rem;
+}
+#menu-t .dropdown-item,
+#menu-t .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-t .link:hover,
+#menu-t .dropdown-item:hover,
+#menu-t .link:focus,
+#menu-t .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-t .link[aria-expanded="true"],
+#menu-t .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-t .nav-dropdown-sm .link:focus,
+#menu-t .nav-dropdown-sm .link:hover,
+#menu-t .nav-dropdown-sm .dropdown-item:focus,
+#menu-t .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-t .navbar,
+#menu-t .nav-dropdown-sm,
+#menu-t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-t .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-t .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-t .bg-color.transparent.opened .link:hover,
+#menu-t .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-t .link[aria-expanded="true"],
+#menu-t .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-t .close-icon::before,
+#menu-t .close-icon::after {
   background-color: #000000;
 }
