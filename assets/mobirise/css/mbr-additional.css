@@ -411,8 +411,8 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header2-8 .mbr-section-text {
-  text-align: left;
+#header1-h .mbr-section-title {
+  color: #000000;
 }
 #features7-c .card-subtitle {
   color: #bcbcbc;
@@ -426,6 +426,9 @@ h6,
 }
 #features7-c P {
   color: #000000;
+}
+#header2-8 .mbr-section-text {
+  text-align: left;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
