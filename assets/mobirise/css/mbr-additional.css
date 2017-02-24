@@ -432,9 +432,20 @@ h6,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons4-1l .mbr-section-title,
+#social-buttons4-1l .btn-social {
+  color: #fff;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#footer1-1i P {
+  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
