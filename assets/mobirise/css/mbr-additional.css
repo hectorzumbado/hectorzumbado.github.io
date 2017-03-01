@@ -414,38 +414,35 @@ h6,
 #header1-h .mbr-section-title {
   color: #000000;
 }
-#header3-14 .mbr-section-title,
-#header3-14 .mbr-section-subtitle {
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1d .mbr-section-title,
-#header3-1d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1d H3 {
+#header3-1h H3 {
   color: #ffffff;
 }
-#header3-1d SMALL {
+#features3-1e H4 {
   color: #ffffff;
 }
-#header3-13 .mbr-section-title,
-#header3-13 .mbr-section-subtitle {
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1m .mbr-section-title,
-#header3-1m .mbr-section-subtitle {
-  text-align: center;
-}
-#social-buttons4-1l .mbr-section-title,
-#social-buttons4-1l .btn-social {
-  color: #fff;
-}
-#footer1-1n P {
+#header3-1g H3 {
   color: #ffffff;
 }
-#header3-1j .mbr-section-title,
-#header3-1j .mbr-section-subtitle {
-  text-align: center;
+#features7-1d .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1d .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-1d P {
+  color: #ffffff;
+}
+#features7-1d H4 {
+  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -514,6 +511,12 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
+#menu-0 .btn {
+  font-size: 17px;
+}
+#menu-0 .btn SPAN {
+  font-size: 20px;
+}
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -580,6 +583,12 @@ h6,
 #menu-d .close-icon::before,
 #menu-d .close-icon::after {
   background-color: #000000;
+}
+#menu-d .btn {
+  font-size: 17px;
+}
+#menu-d .btn SPAN {
+  font-size: 20px;
 }
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -648,6 +657,12 @@ h6,
 #menu-n .close-icon::after {
   background-color: #000000;
 }
+#menu-n .btn {
+  font-size: 17px;
+}
+#menu-n .btn SPAN {
+  font-size: 20px;
+}
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -714,6 +729,12 @@ h6,
 #menu-18 .close-icon::before,
 #menu-18 .close-icon::after {
   background-color: #000000;
+}
+#menu-18 .btn {
+  font-size: 17px;
+}
+#menu-18 .btn SPAN {
+  font-size: 20px;
 }
 #header2-1c .mbr-section-title {
   color: #000000;
