@@ -424,26 +424,6 @@ h6,
 #features3-1e H4 {
   color: #ffffff;
 }
-#header3-1g .mbr-section-title,
-#header3-1g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1g H3 {
-  color: #ffffff;
-}
-#features7-1d .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1d .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features7-1d P {
-  color: #ffffff;
-}
-#features7-1d H4 {
-  color: #ffffff;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -458,11 +438,11 @@ h6,
   color: #000000;
 }
 #menu-0 .link {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.921rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -512,7 +492,7 @@ h6,
   background-color: #000000;
 }
 #menu-0 .btn {
-  font-size: 17px;
+  font-size: 14px;
 }
 #menu-0 .btn SPAN {
   font-size: 20px;
@@ -531,11 +511,11 @@ h6,
   color: #000000;
 }
 #menu-d .link {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.921rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -585,7 +565,7 @@ h6,
   background-color: #000000;
 }
 #menu-d .btn {
-  font-size: 17px;
+  font-size: 14px;
 }
 #menu-d .btn SPAN {
   font-size: 20px;
@@ -604,11 +584,11 @@ h6,
   color: #000000;
 }
 #menu-n .link {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.921rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,
@@ -658,7 +638,7 @@ h6,
   background-color: #000000;
 }
 #menu-n .btn {
-  font-size: 17px;
+  font-size: 14px;
 }
 #menu-n .btn SPAN {
   font-size: 20px;
@@ -677,11 +657,11 @@ h6,
   color: #000000;
 }
 #menu-18 .link {
-  font-size: 0.8rem;
+  font-size: 0.85rem;
 }
 #menu-18 .dropdown-item,
 #menu-18 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.921rem;
 }
 #menu-18 .link:hover,
 #menu-18 .dropdown-item:hover,
@@ -731,7 +711,7 @@ h6,
   background-color: #000000;
 }
 #menu-18 .btn {
-  font-size: 17px;
+  font-size: 14px;
 }
 #menu-18 .btn SPAN {
   font-size: 20px;
@@ -742,4 +722,24 @@ h6,
 #header2-1c .mbr-section-text {
   color: #000000;
   text-align: left;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1j H3 {
+  color: #ffffff;
+}
+#features7-1i .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1i .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#features7-1i H4 {
+  color: #ffffff;
+}
+#features7-1i P {
+  color: #ffffff;
 }
