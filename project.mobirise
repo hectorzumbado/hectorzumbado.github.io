@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -85,7 +85,7 @@
           "_anchor": "header3-1h",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -99,6 +99,9 @@
           "_name": "features3",
           "_styles": {
             "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -122,7 +125,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
@@ -139,7 +142,7 @@
           },
           "title1": "If Walls Could Talk",
           "subtitle1": "",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Poster for the&nbsp;theater production called If Walls Could Talk",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -155,7 +158,7 @@
           },
           "title2": "The Human Mind",
           "subtitle2": "",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "16 bit project",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -171,7 +174,7 @@
           },
           "title3": "MAS Sights And Sounds Of The 60s",
           "subtitle3": "",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "&nbsp;Poster for the theater production called Sights And Sounds Of The 70s",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -187,7 +190,7 @@
           },
           "title4": "Hector's Tale",
           "subtitle4": "",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "DVD cover for Miami Dade County Fair",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
