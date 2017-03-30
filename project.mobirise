@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Biography",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -68,6 +68,50 @@
           "title": "Hector Zumbado",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOADFOR WINDOWS</a> "
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title P": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<p>Introduction: Hector Zumbado</p>",
+          "text": "A little bit about me.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/watch?v=Jv8bNEdFTHE\" data-toolbar=\"-mbrBtnMove\">Watch my story</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Biography\" data-toolbar=\"-mbrBtnMove\">Check my biography</a>"
         },
         {
           "_styles": {
@@ -174,7 +218,7 @@
           },
           "title3": "MAS Sights And Sounds Of The 60s",
           "subtitle3": "",
-          "caption3": "&nbsp;Poster for the theater production called Sights And Sounds Of The 70s",
+          "caption3": "&nbsp;Poster for the theater production called Sights And Sounds Of The 60s",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1245,61 +1289,6 @@
           },
           "title": "Biography&nbsp;",
           "text": "My name is Hector Amaro Zumbado Pita. I was born in February 21,2003 in Caracas, Venezuela. &nbsp;I moved to The United &nbsp;States Of America in 2011 &nbsp;to have a better education here. Later on when I entered middle school I enetered the Tech. Production magnet program &nbsp;in Miami Arts Studio 6th-12th . Now im in 8th &nbsp;grade and still in the Tech Production magnet program in Miami Arts Stuido",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box4-1p",
-          "_params": {
-            "imageSize": "47",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=Jv8bNEdFTHE&feature=youtu.be",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Introduction: Hector Zumbado",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
