@@ -93,9 +93,9 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/banner3-2000x625.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
